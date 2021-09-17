@@ -14,7 +14,15 @@ This dissertation was produced to obtain a Masters Degree in Data Science.
 
 ## Abstract
 
-Final version TBD.
+> Artificial Intelligence (AI) has gone through an increasing growth in the past decades, which in the present day translates to its usage in almost every sector of society. From its inception, AI pursues the reproduction of human intelligence. Currently, AI-equipped devices are capable of solving particular problems within specific domains with varying degrees of success. The goal and hope is that the combination of these systems will eventually approximate human intelligence. This dissertation addresses a problem in Natural Language Processing (NLP), a central subfield of AI that aims to produce devices capable of handling human language for problems such as translation, parsing, commonsense reasoning, and others.
+>
+> Deep learning has fueled state-of-the-art NLP research. The current most prominent methodology leverages large scale neural networks and large amounts of data to achieve outstanding performances. Recent research has started to uncover how these neural networks obtain state-of-the-art results. In some cases the models appear to latch on to so called data artifacts, whether they sustain valid generalizations or not, which happen to minimize loss w.r.t. the training dataset distribution. Although this is generally the rationale behind a machine learning approach, it can be error inducing, as models can fail miserably when the distribution of the input data differs from the training data.
+>
+> Our work reported in this dissertation investigates whether models learn to perform commonsense reasoning, a cognitively demanding task inherent to the human experience, by resorting to such shortcuts. Five state-of-the-art models of different major types are trained to perform four most prominent commonsense reasoning tasks. Models undergo stress testing with five additional tasks devised to provide hints of possible shortcut learning and of memorization.
+>
+> The results indicate that the models seem to be resorting to shortcut learning in three of the four commonsense reasoning tasks%, which are flagged as problematic; they seem to be learning a different task from the one the data is meant to convey by relying on spurious patterns present in the dataset. For example, the trained models can pick the answer from a set of options without even being supplied with the question they are meant to answer. Further experimentation confirmed that this behavior could not be attributed to memorization. This behavior is worrisome, as the field measures progress by the capabilities of these models to perform these tasks, and show that their cognitive abilities are disappointingly still low, susceptible to simple deceptions in spite of the overwhelming good scores obtained under mainstream performance metrics.
+>
+> Parts of this work have passed peer review and were accepted for publication.
 
 ## Code
 

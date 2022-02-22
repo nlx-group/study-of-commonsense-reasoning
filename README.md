@@ -76,8 +76,26 @@ Ruben Branco, António Branco, João Silva and João Rodrigues
 to appear at KINN 2021
 ```
 
-Bibtex citation will be provided as soon as proceedings are published.
+```
+@article{branco2021commonsense,
+  title={Commonsense Reasoning: how do Neuro-Symbolic and Neuro-only approaches compare?},
+  author={Branco, Ruben and Branco, Ant{\'o}nio and Silva, Jo{\~a}o and Rodrigues, Jo{\~a}o},
+  year={2021}
+}
+```
 
 ---
 
-Bibtex citation for this dissertation will be provided after its defense.
+```
+A Study of Commonsense Reasoning with Language Models
+Ruben Branco, supervised by António Branco
+Masters in Data Science Dissertation 2020/2021
+```
+
+```
+@mastersthesis{branco2021study,
+  title={A Study of Commonsense Reasoning with Language Models},
+  author={Branco, Ruben},
+  year={2021}
+}
+```

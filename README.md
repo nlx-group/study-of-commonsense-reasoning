@@ -2,7 +2,7 @@
 
 <p align="center"><img src="NLX_and_FCUL.png" alt="NLX and FCUL Logo" /></p>
 
-This repository contains the code and some data (certain datasets cannot be shared due to licensing issues) for the [dissertation]():
+This repository contains the code and some data (certain datasets cannot be shared due to licensing issues) for the [dissertation](https://repositorio.ul.pt/handle/10451/51357):
 
 ```
 A Study of Commonsense Reasoning with Language Models
